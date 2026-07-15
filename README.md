@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Swathi 👋
 
-<!--
-**swathi-tech-pixel/swathi-tech-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Who am I?
+I'm a Computer Science graduate passionate about software development. I enjoy building Java applications, solving coding problems, and continuously learning modern development tools and practices.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
+- 🌱 Learning Full Stack Java Development
+- ⚙️ Exploring CI/CD fundamentals with GitHub Actions
+- 💻 Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+**Languages:** Java, Python, SQL, HTML, JavaScript
+
+**Tools:** Git, GitHub, VS code, MySQL, Maven
+
+**Currently Learning:** Full Stack Java Development, CI/CD
+
+## 📫 Connect With Me
+📧 Email: swathikuppala507@gmail.com
+
+💼 LinkedIn: linkedin.com/in/swathi-kuppala-85ab28310
+
